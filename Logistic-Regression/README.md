@@ -1,1 +1,1 @@
-#Example of use of Logistic Regression 
+# Example of Logistic Regression application 
